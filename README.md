@@ -11,6 +11,8 @@ For more information check the wiki:
 
 http://wireless.kernel.org/en/users/Drivers/ath10k/firmware
 
+--- 
+---
 
 > this repository is used to save a backup of firmware
 ### steps to install firmware
